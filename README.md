@@ -35,5 +35,3 @@ FuCk 大小写<br/>
 ｆｕｃｋ全角半角<br/>
 f!!!u&c  ###k 停顿词<br/>
 fffuuuucccckkk 重复词<br/><br/><br/>
-
-博文地址：http://blog.csdn.net/fengshizty/article/details/52373005<br/>
